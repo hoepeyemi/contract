@@ -27,6 +27,6 @@ To get started with the contract, follow these steps:
    npx hardhat run ./scripts/deploy.js
    ```
 
-4. Open [[Testnet Contract on-chain](https://base-sepolia.blockscout.com/address/0xC97384DE52e31Cc4EBE22e06139e36Bd7F01211D)](https://base-sepolia.blockscout.com/address/0xC97384DE52e31Cc4EBE22e06139e36Bd7F01211D) in your browser to see the Contract on-chain.
+4. Open [[Testnet Contract on-chain](https://base-sepolia.blockscout.com/address/0xC97384DE52e31Cc4EBE22e06139e36Bd7F01211D)] in your browser to see the Contract on-chain.
 
 5. Open [[Mainnet Contract on-chain](https://scan.coredao.org/address/0xaffc6Ec028d36796bc8E7f7F520d4bF61F6E14a0)](https://scan.coredao.org/address/0xaffc6Ec028d36796bc8E7f7F520d4bF61F6E14a0) in your browser to see the Contract on-chain.
